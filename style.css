@@ -1,1 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#palette {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.color-box {
+    width: 60px;
+    height: 60px;
+    border-radius: 6px;
+    border: 1px solid #000;
+}
 
